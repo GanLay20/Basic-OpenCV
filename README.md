@@ -1,5 +1,6 @@
 # Basic-OpenCV-
-Baisc OpenCV Workshop (American Center Yangon) by Yan Myo Aung
+Baisc OpenCV Workshop (American Center Yangon) 
+by Yan Myo Aung (Jump Into Python)
 
 
 - Install Anaconada 
@@ -9,7 +10,8 @@ Baisc OpenCV Workshop (American Center Yangon) by Yan Myo Aung
 - Install Numpy 
     pip install numpy
   
-  All the required steps are written in OpenCV Workshop Powerpoint.
+  All the required steps are provided in OpenCV Workshop Powerpoint.
+
 
   
   
